@@ -2,12 +2,15 @@
 
 This repository contains my Python learning journey and practice programs.
 
-Topics covered:
-- OOPs
-- Inheritance
+## Topics Covered
+- Basics
 - Functions
-- Loops
+- Classes and Objects
 - File Handling
-- Problem Solving
+- OOP Concepts
+- Exception Handling
+- Practice Problems
+- Mini Projects
 
-I will continue uploading Python practice and mini projects here regularly.
+## Author
+Sahil Ilyasi
